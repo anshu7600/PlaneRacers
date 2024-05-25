@@ -7,6 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:PlaneRacers/Assets/Materials/New Material.mat
   m_Name: New Material
   m_Shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
@@ -16,6 +17,16 @@ Material:
   m_InvalidKeywords:
   - _ALPHABLEND_ON
   m_LightmapFlags: 4
+=======
+  m_Name: 6sidedCosmicCoolCloud
+  m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _EMISSION
+  m_LightmapFlags: 1
+>>>>>>> Stashed changes:PlaneRacers/Assets/SkySeries Freebie/6sidedCosmicCoolCloud.mat
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -91,8 +102,13 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
+<<<<<<< Updated upstream:PlaneRacers/Assets/Materials/New Material.mat
     - _DstBlend: 10
     - _Exposure: 0.1
+=======
+    - _DstBlend: 0
+    - _Exposure: 1.39
+>>>>>>> Stashed changes:PlaneRacers/Assets/SkySeries Freebie/6sidedCosmicCoolCloud.mat
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -111,6 +127,10 @@ Material:
     m_Colors:
     - _Color: {r: 0.7735849, g: 0.2729441, b: 0.2729441, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+<<<<<<< Updated upstream:PlaneRacers/Assets/Materials/New Material.mat
     - _GroundColor: {r: 0.4188679, g: 0.4188679, b: 0.4188679, a: 1}
     - _SkyTint: {r: 0, g: 0, b: 0, a: 1}
+=======
+    - _Tint: {r: 0.7283019, g: 0.7283019, b: 0.7283019, a: 0.5}
+>>>>>>> Stashed changes:PlaneRacers/Assets/SkySeries Freebie/6sidedCosmicCoolCloud.mat
   m_BuildTextureStacks: []
