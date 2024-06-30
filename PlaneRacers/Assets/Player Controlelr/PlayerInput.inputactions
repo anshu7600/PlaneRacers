@@ -2,14 +2,14 @@
     "name": "PlayerInput",
     "maps": [
         {
-            "name": "Moevment",
-            "id": "ff11f39a-7588-413c-90ea-cac4f282e6ab",
+            "name": "Player",
+            "id": "23521e04-dbb1-4840-a409-ba1f221902e3",
             "actions": [
                 {
-                    "name": "New action",
-                    "type": "Button",
-                    "id": "d7c77e99-be78-414f-90d4-953ecd93999b",
-                    "expectedControlType": "Button",
+                    "name": "Look",
+                    "type": "PassThrough",
+                    "id": "0464087d-7fac-41c2-8c49-41a7aa2cdeb8",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -18,12 +18,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "1b7db63a-88f1-41ef-94c2-1f67b9ecc548",
-                    "path": "",
+                    "id": "6af77990-e51e-4da8-9bf9-479bbd16d8d8",
+                    "path": "<Mouse>/delta",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Look",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
